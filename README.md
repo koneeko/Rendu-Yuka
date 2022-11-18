@@ -1,2 +1,1 @@
-# Rendu Yuka
-## La vie sociale des données
+# Enquête Yuka - La vie sociale des données
