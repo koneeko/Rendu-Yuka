@@ -6,7 +6,8 @@
 
 
 ## 1- Présentation de l’application
-
+![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/d32688c8d39716dbe2c36dc4e200dbe53d0ed57d/qualit%C3%A9.jpg)
+notation sur l'application pour les 4 types de produits: bon >> médiocre >> mauvais >> alcool (ne pas noté)
 
 ## 2- Revue de presse critique 
 
