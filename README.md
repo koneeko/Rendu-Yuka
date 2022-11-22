@@ -20,7 +20,7 @@
 ![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/ece1827635ada7bac3603234bd3c89afa2f99496/%C3%A9tape%209-10.jpg)
 
 ## 2- Revue de presse critique 
-
+![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/149588b4398916684d45154c24aa03507f5c78f5/nutri-score.jpg)
 
 ## 3- Critiques et limites de la base de données et du système de notation de Yuka
 
