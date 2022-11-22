@@ -7,9 +7,9 @@
 
 ## 1- Présentation de l’application
 ![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/d32688c8d39716dbe2c36dc4e200dbe53d0ed57d/qualit%C3%A9.jpg)
-Notations sur l'application pour les 4 types de produits: bon >> médiocre >> mauvais >> alcool (ne pas noté)
+*Notations sur l'application pour les 4 types de produits: bon >> médiocre >> mauvais >> alcool (ne pas noté)*
 
-Comment ajouter un produit dans la base de données de Yuka ?
+> Comment ajouter un produit dans la base de données de Yuka ?
 1) Étapes 1-4 : scanner et photographier- ajouter des informations brutes
 ![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/ece1827635ada7bac3603234bd3c89afa2f99496/%C3%A9tape%201-4.jpg)
 
