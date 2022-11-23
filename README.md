@@ -2,7 +2,7 @@
 
 
 ## Méthodologie
-![Cover](https://github.com/koneeko/Rendu-Yuka/blob/main/img/Style%20de%20vie.jpg)
+![illustration style de vie](https://github.com/koneeko/Rendu-Yuka/blob/main/img/Style%20de%20vie.jpg)
 
 ## 1- Présentation de l’application
 ![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/d32688c8d39716dbe2c36dc4e200dbe53d0ed57d/qualit%C3%A9.jpg)
