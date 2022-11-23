@@ -1,7 +1,8 @@
 # Enquête sur l'application Yuka - La vie sociale des données
 
 ## Mot d'introduction
-![illustration place de l'application dans un smartphone](https://github.com/koneeko/Rendu-Yuka/blob/main/img/Style%20de%20vie.jpg)
+<a href="url"><img src="https://github.com/koneeko/Rendu-Yuka/blob/main/img/Style%20de%20vie.jpg" align="left" height="800" width="400" ></a>
+
 
   L’enquête collective suivante réunit quatre étudiantes de quatre parcours différents : l’école urbaine (Milena), l’école de marketing (Kori), de recherche (Emma) et d’affaires publiques (Xinchen), qui se sont accordées pour étudier la base de données de Yuka. Elles-mêmes utilisatrices de l’application, l’enquête a été une belle opportunité pour décrypter de plus près les critères d’évaluation des produits cosmétiques et alimentaires, les classifications de ces derniers ainsi que leur impact sur la consommation de leurs utilisateurs et de questionner la réelle indépendance d’une base de données participative (utilisateurs lambdas) et collaborative (producteurs, groupes industriels). Pour ne pas nous éparpiller, nous nous sommes volontairement focalisées sur la base de données alimentaires et cosmétiques de Yuka et non pas sur son nouvel eco-score qui mobilise des sources de données différentes (ADEME, INRAE) et une grille d’évaluation propre. 
 
