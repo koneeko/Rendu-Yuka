@@ -22,15 +22,15 @@ Disponible au téléchargement depuis 2017, l’application gratuite scan le cod
 
 ![Capture d'écran présentation des produits sur Yuka](https://github.com/koneeko/Rendu-Yuka/blob/main/img/qualit%C3%A9.jpg)
 
-Notations sur l'application pour les 4 types de produits :
+```diff
+Notations sur l'application pour les produits :
 
-*- bon*
++ bon
+! médiocre
+- mauvais
 
-*- médiocre*
-
-*- mauvais*
-
-*(l'alcool n'est pas noté)*
+(l'alcool n'est pas noté)
+```
 
 Pour ses fondateurs, Julie Chapon, François et Benoît Martin, l’objectif était de guider les consommateurs dans leur régime alimentaire en mettant en avant des aliments bons pour leur santé et d’inciter les producteurs industriels à jouer le jeu de la transparence et bannir les composants dangereux à la consommation. Présente à l’international dans des pays hispanophones, francophones ou anglophones, l’application mobile se présente comme indépendante et assure ne pas être rémunérée par des marques, ni n’être influencée dans ses critères de notation par des acteurs industriels, ni exploiter les données des utilisateurs pour la revente. Ainsi, cette société « spécialisée dans la programmation informatique » (cf. bilan comptable) génère ses revenus à partir de la version premium de l’application proposant des programmes nutritionnels personnalisés, à partir des produits dérivés (livre de recettes, calendrier) et à partir de donations des utilisateurs. L’équipe gestionnaire de l’application se compose de onze membres qui se répartissent entre pôle communication et presse et un pôle technique de développement de l’application et de gestion de la base de données à l’écoute des utilisateurs. 
 
