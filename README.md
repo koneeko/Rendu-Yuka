@@ -1,7 +1,7 @@
 # Enquête sur l'application Yuka - La vie sociale des données
 
 
-## Méthodologie
+## Méthodologie utilisée
 ![illustration style de vie](https://github.com/koneeko/Rendu-Yuka/blob/main/img/Style%20de%20vie.jpg)
 
 ## 1- Présentation de l’application
