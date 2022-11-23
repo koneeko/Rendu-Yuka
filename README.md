@@ -13,13 +13,13 @@
 
 1) Étapes 1-4 : scanner et photographier- ajouter des informations brutes
 
-![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/ece1827635ada7bac3603234bd3c89afa2f99496/%C3%A9tape%201-4.jpg)
+![Captures d'écran étapes 1 à 4](https://github.com/koneeko/Rendu-Yuka/blob/main/img/%C3%A9tape%201-4.jpg)
 
 2) Étapes 5-8 : sélectionner - ajouter des information sous les critères de Yuka
-![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/ece1827635ada7bac3603234bd3c89afa2f99496/%C3%A9tape%205-8.jpg)
+![Captures d'écran étapes 5 à 8](https://github.com/koneeko/Rendu-Yuka/blob/main/img/%C3%A9tape%205-8.jpg)
 
 3) Étapes 9-10 : c'est fini ! 
-![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/ece1827635ada7bac3603234bd3c89afa2f99496/%C3%A9tape%209-10.jpg)
+![Captures d'écran étapes 9 et 10](https://github.com/koneeko/Rendu-Yuka/blob/main/img/%C3%A9tape%209-10.jpg)
 
 ## 2- Revue de presse critique 
 
