@@ -2,8 +2,7 @@
 
 
 ## Méthodologie
-![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/96db54a9370a3f77ea495af57c2823e2b7297f2e/WhatsApp%20%E5%9B%BE%E5%83%8F%202022-11-22%20%E4%BA%8E%2015.21.50.jpg)
-
+![Cover](https://github.com/koneeko/Rendu-Yuka/blob/main/img/Style%20de%20vie.jpg)
 
 ## 1- Présentation de l’application
 ![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/d32688c8d39716dbe2c36dc4e200dbe53d0ed57d/qualit%C3%A9.jpg)
