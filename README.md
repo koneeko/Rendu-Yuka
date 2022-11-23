@@ -2,12 +2,12 @@
 
 
 ## Méthodologie
-![illustration style de vie](https://github.com/koneeko/Rendu-Yuka/blob/main/img/Style%20de%20vie.jpg)
+![illustration place de l'application dans un smartphone](https://github.com/koneeko/Rendu-Yuka/blob/main/img/Style%20de%20vie.jpg)
 
 ## 1- Présentation de l’application
-![this is an image](https://github.com/koneeko/Rendu-Yuka/blob/d32688c8d39716dbe2c36dc4e200dbe53d0ed57d/qualit%C3%A9.jpg)
+![Capture d'écran présentation des produits sur Yuka](https://github.com/koneeko/Rendu-Yuka/blob/main/img/qualit%C3%A9.jpg)
 
-*Notations sur l'application pour les 4 types de produits: bon >> médiocre >> mauvais >> alcool (ne pas noté)*
+*Notations sur l'application pour les 4 types de produits: bon >> médiocre >> mauvais >> alcool (n'est pas noté)*
 
 > Comment ajouter un produit dans la base de données de Yuka ?
 
