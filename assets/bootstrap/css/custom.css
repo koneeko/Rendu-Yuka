@@ -1,0 +1,13 @@
+img.accueil{
+    height: 40%;
+  }
+
+  .media {
+    height: fit-content;
+    width: auto;
+  }
+
+.img-thumbnail {
+    max-width: 40%;
+    height: auto;
+  }
