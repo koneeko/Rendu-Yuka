@@ -189,11 +189,17 @@ Dans ce contexte, les limites et critiques évoquées lors de ce compte-rendu no
 
 Bibliographie : 
 Anglade, C. (2018, octobre 25). *Alimentation : L’application Yuka nous raconte-t-elle des salades ?* TF1 Info. https://www.tf1info.fr/nutrition/alimentation-l-application-yuka-nous-raconte-t-elle-des-salades-2101947.html
+
 *Application Yuka : À consommer avec modération.* (2020, février 8). Testachats Santé. https://www.test-achats.be/sante/alimentation-et-nutrition/alimentation-saine/news/app-yuka
+
 Biosse Duplan, M. (2021, septembre 24). *L’application Yuka à nouveau condamnée pour «dénigrement» par une société charcutière.* Le Figaro. https://www.lefigaro.fr/societes/l-application-yuka-a-nouveau-condamnee-pour-denigrement-par-une-societe-charcutiere-20210924
+
 Guyomard, F. (2020, janvier 28). *Alimentation, cosmétique : Les travers de l’application Yuka.* Les Echos Executives. https://business.lesechos.fr/directions-marketing/communication/e-reputation/0602636250689-alimentation-cosmetique-les-travers-de-l-application-yuka-334655.php#Xtor=AD-6000
+
 Jung, D. (2020, juillet 30). *L’appli Yuka : Un allié pour mieux consommer, vraiment?* Radio-Canada; Radio-Canada.ca. https://ici.radio-canada.ca/nouvelle/1723233/alimentation-sante-cosmetique-yuka-bio-additifs-nutrition
+
 Lecluse, S. (2018, décembre 13). *Peut-on faire confiance à Yuka pour ses courses ?* Capital. https://www.capital.fr/conso/peut-on-faire-confiance-a-yuka-pour-ses-courses-1319721
+
 Southey, F. (2019, août 20). *Evaluating the Yuka ‘phenomenon’ : How effective is the scanning app in practice?* Food Navigator. https://www.foodnavigator.com/Article/2019/08/20/Evaluating-the-Yuka-phenomenon-How-effective-is-the-scanning-app-in-practice
 
 Annexe :
