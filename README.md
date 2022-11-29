@@ -188,6 +188,7 @@ Yuka reste un signe de son temps de l’attention croissante des consommateurs �
 Dans ce contexte, les limites et critiques évoquées lors de ce compte-rendu nous permettent de rappeler des questions essentielles sur le sujet : quelles données doivent apparaître sur la plateforme ? Uniquement des données d’ordre réglementaire dont l’étiquetage est obligatoire sur les emballages ou aussi des données plus fines relatives à des enjeux sanitaires, éthiques et environnementaux ? Yuka a fait le choix de s’appuyer sur le Nutri-Score (lui-même imparfait) sans s’y arrêter et surévalue certainement la part du biologique dans sa notation. Mais comme toute catégorisation, elle reflète les idées de sa marque.
 
 Bibliographie : 
+
 Anglade, C. (2018, octobre 25). *Alimentation : L’application Yuka nous raconte-t-elle des salades ?* TF1 Info. https://www.tf1info.fr/nutrition/alimentation-l-application-yuka-nous-raconte-t-elle-des-salades-2101947.html
 
 *Application Yuka : À consommer avec modération.* (2020, février 8). Testachats Santé. https://www.test-achats.be/sante/alimentation-et-nutrition/alimentation-saine/news/app-yuka
@@ -203,6 +204,7 @@ Lecluse, S. (2018, décembre 13). *Peut-on faire confiance à Yuka pour ses cour
 Southey, F. (2019, août 20). *Evaluating the Yuka ‘phenomenon’ : How effective is the scanning app in practice?* Food Navigator. https://www.foodnavigator.com/Article/2019/08/20/Evaluating-the-Yuka-phenomenon-How-effective-is-the-scanning-app-in-practice
 
 Annexe :
+
 1) Retranscription de l'entretien
 
 Envoyée directement aux professeurs dans un lien avec un accès restreint
