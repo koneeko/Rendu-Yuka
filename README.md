@@ -207,7 +207,7 @@ Southey, F. (2019, août 20). *Evaluating the Yuka ‘phenomenon’ : How effe
 
 1) Retranscription de l'entretien
 
-Envoyée directement aux professeurs dans un lien avec un accès restreint
+https://docs.google.com/document/d/1Jp7LaSH7HHbND7Sxp91V_XjzHkWw-dK9l53KeCEYJGE/edit?usp=sharing (accès restreint)
 
 2) Questionnaire sur Yuka
 
